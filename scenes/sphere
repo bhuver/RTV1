@@ -1,0 +1,13 @@
+cam:
+	pos:0;0;-10
+	dir:0;0;1
+
+light:
+	pos:10;2;-8
+	int:0.5
+	col:255;255;255
+
+sphere:
+	pos:0;0;0
+	rad:2
+	col:255;0;0

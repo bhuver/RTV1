@@ -1,0 +1,15 @@
+cam:
+	pos:0;0;-10
+	dir:0;0;1
+
+light:
+	pos:10;2;-8
+	int:0.5
+	col:255;255;255
+
+cylindre:
+	pos:0;0;0
+	dir:0.0;1;0
+	nor:0;1;0
+	rad:1
+	col:0;255;0
