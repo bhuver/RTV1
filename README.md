@@ -3,5 +3,4 @@
 Projet solo de realisation d'un raytracer.
 
 Ne contient que queslques objets de base (cylindre, sphere, plan, cone).
-
-![alt text](https://raw.githubusercontent.com/bhuver/RTV1/scenes/screenshot_full_objects.png)
+https://raw.githubusercontent.com/bhuver/RTV1/scenes/screenshot_full_objects.png)
